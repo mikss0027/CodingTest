@@ -2,6 +2,7 @@
 
 - .NET5
 - Cypress
+- GitHub Actions
 
 ---
 
